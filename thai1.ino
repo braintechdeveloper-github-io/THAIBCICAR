@@ -1,4 +1,7 @@
 //Initializing the Pin
+/*
+*  ALL RIGHT RESERVED || ANG JIA YI COPYRIGHT
+*/
 int ran1;
 int ran2;
 int power=11;
